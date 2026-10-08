@@ -1,0 +1,11 @@
+{
+  "name": "transformation-engine-v3-1-post-holiday-focus",
+  "version": "3.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node test.mjs",
+    "build": "node test.mjs && node build.mjs"
+  }
+}

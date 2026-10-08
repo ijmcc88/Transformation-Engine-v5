@@ -1,0 +1,9 @@
+{
+  "name": "Transformation Engine v3",
+  "short_name": "Engine v3",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090b0d",
+  "theme_color": "#090b0d",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
